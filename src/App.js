@@ -12,11 +12,6 @@ function App() {
           <Route path="/"element={<Home/>}/>
         </Routes>
       </Router>
-
-      {/* Home(search page)*/}
-      
-      {/* Results page*/}
-
     </div>
   );
 }
